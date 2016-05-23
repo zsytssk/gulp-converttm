@@ -1,0 +1,21 @@
+{
+  "name": "gulp-converttm",
+  "version": "0.0.1",
+  "description": "A convert textureMerger spitesheet.json to pixi use plugin for gulp",
+  "dependencies": {
+    "readable-stream": "^2.0.1",
+    "replacestream": "^4.0.0"
+  },
+  "scripts": {},
+  "repository": {},
+  "keywords": [
+    "gulpplugin",
+    "textureMerger"
+  ],
+  "author": "zhangshiyang <zsytssk@gmail.com>",
+  "license": "MIT",
+  "bugs": {},
+  "engines": {
+    "node": ">=0.10"
+  }
+}
